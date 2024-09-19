@@ -14,6 +14,8 @@
 
 <b>🎙🎬YouTuber</b> <a>(https://www.youtube.com/@brawl_frostbear)</a>
 
+<b>🖼️Draw,Pixel art </b>
+
 <b>⌨️Started learning programming:</b> 
 
 ![ISO_C++_Logo](https://github.com/user-attachments/assets/15414487-d6c7-436e-8454-2ba7dbe66075)
