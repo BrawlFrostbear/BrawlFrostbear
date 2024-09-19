@@ -1,3 +1,7 @@
 ## Hi there 👋
 
-<a href="https:/ /www.youtube.com/c/https://www.youtube.com/@brawl_frostbear" target="blank">youtube
+My devices:
+
+Realme GT NEO 5 12|256
+
+hobby:
