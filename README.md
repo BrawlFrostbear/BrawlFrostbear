@@ -6,6 +6,19 @@
  My devices
 
 - <b>Realme GT NEO 5 12|256</b>
+
+-- <b>PC
+
+- Motherboard|Tuf Gaming B460-plus
+
+-Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz   2.90 GHz
+
+-RAM 16,0 GB
+
+-GTX 1050 Ti (4GB)
+
+
+</b>
 ##
 ![pngwing com (1)](https://github.com/user-attachments/assets/38a9f8df-ddb7-4bdb-8903-2b5ebe1305ca)
  Hobby
