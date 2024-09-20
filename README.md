@@ -18,10 +18,10 @@
 -GTX 1050 Ti (4GB)
 
 
-</b>
-##
-![pngwing com (1)](https://github.com/user-attachments/assets/38a9f8df-ddb7-4bdb-8903-2b5ebe1305ca)
- Hobby
+</b> 
+
+ ![pngwing com (1)](https://github.com/user-attachments/assets/67b9bb2a-53f5-48cc-9f8c-6478776dcdbb)
+Hobby
 
 <b>🕹️Video games</b> <a>(https://steamcommunity.com/profiles/76561199212890248/)</a>
 
