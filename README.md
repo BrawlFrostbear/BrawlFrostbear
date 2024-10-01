@@ -3,37 +3,7 @@
 
 
 
-![252447-200](https://github.com/user-attachments/assets/01a04ad6-025d-4597-932a-ab9d5dc6a223)
- My devices
 
-- <b>Realme GT NEO 5 12|256</b>
-
--Snapdragon 8 gen+1
-
--- <b>PC
-
-- Motherboard|Tuf Gaming B460-plus
-
--Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz   2.90 GHz
-
--RAM 16,0 GB
-
--GTX 1050 Ti (4GB)
-
-
-
---<b>Laptop</b> 
-
-
-- acer nitro v 15
-
--AMD Ryzen 5 7535HS
-
--RAM 16,0 GB
-
--RTX 2050 (4GB)
-
- 
  ![pngwing com (1)](https://github.com/user-attachments/assets/67b9bb2a-53f5-48cc-9f8c-6478776dcdbb)
 Hobby
 
