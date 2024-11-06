@@ -5,20 +5,7 @@
 
 
 
- ![pngwing com (1)](https://github.com/user-attachments/assets/67b9bb2a-53f5-48cc-9f8c-6478776dcdbb)
-Hobby
 
-<b>🕹️Video games</b> <a>(https://steamcommunity.com/profiles/76561199212890248/)</a>
-
-<b>🎙🎬YouTuber</b> <a>(https://www.youtube.com/@brawl_frostbear)</a>
-
-<b>⚙️Really like making mods for games</b> 
-
-<b>1.Project Zomboid</b> 
-
-<a>(https://steamcommunity.com/profiles/76561199212890248/myworkshopfiles/?appid=108600)</a>
-
-<b>🖼️Draw,Pixel art </b>
 ##
 <b>⌨️Started learning programming:</b> 
 
